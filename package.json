@@ -1,5 +1,5 @@
 {
-  "name": "@acl/singleton",
+  "name": "acl.singleton",
   "version": "1.0.0",
   "description": "javascript singleton",
   "main": "index.js",
@@ -13,7 +13,10 @@
   "keywords": [
     "singleton"
   ],
-  "author": "liuyang",
+  "author": {
+    "name": "liuyang",
+    "email": "liu88yang889@163.com"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/lywzx/singleton/issues"
