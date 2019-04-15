@@ -1,0 +1,2 @@
+# singleton
+javascript singleton
